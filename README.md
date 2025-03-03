@@ -1,7 +1,7 @@
 # Amazon-Dashboard
 Amazon Dashboard for Sales and Costumer insights.
 
-DASHBOARD INTERACTION - < a href=" https://public.tableau.com/app/profile/parth.sarathi.sharma8678/viz/AmazonSalesCustomerDashboardsDynamic/CustomerDashboard">Amazon-Dashboard</a>
+DASHBOARD INTERACTION - <a href="https://public.tableau.com/app/profile/parth.sarathi.sharma8678/viz/AmazonSalesCustomerDashboardsDynamic/CustomerDashboard">Amazon-Dashboard</a>
 
 ----Sales Dashboard----
 ->Provides a comprehensive overview of key sales metrics and trends.
